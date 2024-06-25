@@ -8,16 +8,16 @@ For the frontend, I have used ReactJS library to create a dynamic and interactiv
 
 Homepage
 
-![Homepage](image.png)
+![Homepage](app/image.png)
 
 Login Modal
 
-![Login Modal](image-1.png)
+![Login Modal](app/image-1.png)
 
 SignUp Form
 
-![Signup form](image-2.png)
+![Signup form](app/image-2.png)
 
 City Selection modal
 
-![city selection](image-3.png)
+![city selection](app/image-3.png)
